@@ -1,46 +1,45 @@
-# Month-by-Month Goals – 6 Month Fast Lane to HFT Offer
+# C++ Concepts to Master for HFT Interviews (Jane Street, HRT, etc.)
 
-## Month 1 – Ramp-Up & Foundation
-- Codeforces: Reach ~1500+
-- Solve 30+ problems (1400–1600)
-- Learn: Modulo math, expected value, recursion, line of expectation
-- C++: Move semantics, const correctness, value categories
-- Do: 2 puzzles + 1 virtual contest/week
-- Build: Daily log + resume draft
+## 🔧 Language Fundamentals
+- Value categories: lvalues, rvalues, glvalues
+- Move semantics & copy elision
+- Templates: basics + template metaprogramming (intro)
+- RAII, smart pointers, and object lifetimes
+- Const-correctness
 
-## Month 2 – Consistency & Math Muscle
-- CF Rating: 1600+
-- Solve Div2 D-level regularly
-- Learn: Invariants, pigeonhole, Bayes, CRT, Catalan
-- C++: STL internals, iterators, allocator basics
-- Do: Start puzzle spreadsheet + mock interview weekly
+## ⚙️ Performance & Systems
+- Memory layout, alignment, padding
+- Cache locality and false sharing
+- Benchmarking: using `chrono`, `perf`, `valgrind`, `gprof`
+- Low-latency tricks: memory pools, lock-free structures
+- Custom allocators (basic)
 
-## Month 3 – Systems Edge + Interview Skills
-- CF Rating: 1700+
-- Begin solving Div2 E or Div1 A
-- Learn: Inclusion-exclusion, recurrence, modular inverse
-- C++: Memory layout, perf tricks, cache friendliness
-- Mock: Do 2 whiteboard-style problems/week
-- Apply: Start cold emails/applications to HFTs
+## 🧵 Concurrency & Multithreading
+- Threads vs async vs futures
+- std::mutex, condition_variable
+- Atomics: memory_order, seq_cst, acquire/release
+- Data races vs race conditions
+- Thread-safe containers and lock-free queues
 
-## Month 4 – Real Interview Simulation
-- CF Rating: Push to 1800
-- Start solving Div1 A/B
-- Learn: PGFs, Stirling numbers, advanced prob problems
-- C++: Threading, atomics, race conditions
-- Mock: 2 interviews/week (timed, explain reasoning)
-- Project: Build or contribute to toy trading engine or low-lat system
+## 📚 STL Deep Dive
+- Vectors, maps, unordered_map internals
+- Iterator invalidation rules
+- Allocator awareness
+- std::sort and introsort details
+- Emplace vs insert behavior
 
-## Month 5 – Polish & Apply Broadly
-- CF Rating: 1800+
-- Solve: 40 problems/month minimum (with review)
-- Do: 3 real-world interviews or recruiter calls
-- C++: Understand undefined behavior, as-if rule, perf tuning
-- Finalize resume + get referrals if possible
+## 🧨 Undefined Behavior (UB)
+- Most common UB traps
+- As-if rule, strict aliasing, ODR violations
+- Tools: `-fsanitize=address`, `ubsan`, `valgrind`
 
-## Month 6 – Targeted Reps & Final Push
-- Mock with friends / platforms (Pramp, peers, etc.)
-- Re-review all notes/puzzles (meta-learning)
-- Apply to: Jane Street, HRT, Jump, Hudson River, IMC
-- Build: Personal writeup/blog/github on problem-solving
+## 📦 Build & Tooling
+- Compiler flags: `-O2`, `-O3`, `-march=native`, `-flto`
+- g++ vs clang++ differences in output
+- Use of `constexpr`, `noexcept`, `[[nodiscard]]`
 
+## 📘 Recommended Resources
+- “Effective Modern C++” – Scott Meyers
+- “C++ Concurrency in Action” – Anthony Williams
+- Compiler Explorer (godbolt.org)
+- Cppreference + Actual system benchmarks

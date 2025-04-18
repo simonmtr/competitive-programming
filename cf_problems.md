@@ -2,6 +2,7 @@
 
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|28|19.04.2024|327A|1200|Keep counter of existing ones, keep continuing sum of 0s that could turn into ones, update answer based on continued sum, output is either n-1 if its all 1s from begin with or the ones + commulative answer.|[Code](cf_problems/1200/327A.cpp)|
 |27|19.04.2025|514A|1200|All numbers >4 should be switched, except the leading 9.|[Code](cf_problems/1200/514A.cpp)
 |26|18.04.2025|1352C|1200|Calculate the kth integer which we then have to increase for each multiplier of n up to that point|[Code](cf_problems/1200/1352C.cpp)|
 |25|17.04.2025|466A|1200|Check edgecase if its cheaper to just always take the one stop ticket over the multistop ticket. If no, calculate the amounts of being able to use the multistop ticket and the min of using a multistop or multiple one stop tickets for the rest of the trip. Output that calculation.|[Code](cf_problems/1200/466A.cpp)|

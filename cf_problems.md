@@ -84,6 +84,8 @@
 
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|12|19.04.2025|71A|800|For strings shorter that 10 return the string, for others return the first char + len-2 + last char. Output for each string.|[Code] (cf_problems/800/71A.cpp)|
+|11|19.04.2025|344A|800|Compare current to last magnet, if different add one to the groups. Output the groups in the end.|[Code](cf_problems/800/344A.cpp)|
 |10|04.04.2025|266A|800|Go through the string, if the last char is the same as the current, add one to the count and output the count in the end.|[Code](cf_problems/800/266A.cpp)|
 |9|03.04.2025|2095A|X|Output the word 'puzzling'.|-|
 |8|26.02.2025|1692A|800|Count the amount of numbers that are higher than a, output the count.|-|
@@ -94,15 +96,4 @@
 |3|20.02.2025|231A|800|Sum the votes, if its more than 2 add to the result counter and output the result.|-|
 |2|18.02.2025|2069A|800|Check the array if the string '101' exists. If thats the case there is an error and output NO|-|
 |1|18.02.2025|4A|800|If watermelons are divisible by 2 and more than 2 then output YES.|-|
-
-
-
-
-
-
-
-
-
-
-
 ---

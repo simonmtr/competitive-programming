@@ -72,6 +72,7 @@
 **Total: 6/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|7|19.04.2025|131A|1000|Make sure to cover all edge cases for strings of length 1. Other than that, check the restrictions and ouput the according string.|
 |6|05.04.2025|479A|1000|Return the max() of all the possible calculations.|[Code](cf_problems/1000/479A.cpp)|
 |5|05.04.2025|122A|1000|If statement with modulo on all possible numbers between 0 and 1000 that contain a 7 or 4.|[Code](cf_problems/1000/122A.cpp)|
 |4|05.04.2025|58A|1000|Two pointers, one for the 'hello' string and one for the input string. Go through the input string and count the hits on 'hello'. Check in the end if lenght of 'hello' is same as counter, output YES and NO accordingly.|[Code](cf_problems/1000/58A.cpp)|

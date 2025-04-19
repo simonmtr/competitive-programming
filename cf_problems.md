@@ -76,7 +76,7 @@
 |6|05.04.2025|479A|1000|Return the max() of all the possible calculations.|[Code](cf_problems/1000/479A.cpp)|
 |5|05.04.2025|122A|1000|If statement with modulo on all possible numbers between 0 and 1000 that contain a 7 or 4.|[Code](cf_problems/1000/122A.cpp)|
 |4|05.04.2025|58A|1000|Two pointers, one for the 'hello' string and one for the input string. Go through the input string and count the hits on 'hello'. Check in the end if lenght of 'hello' is same as counter, output YES and NO accordingly.|[Code](cf_problems/1000/58A.cpp)|
-|3|05.04.2025|1A|1000|Calculate ((n+a-1)/a) * (m+a-1)/a)) to get the output.|[Code](cf_problems/1000/1A.cpp)|
+|3|05.04.2025|1A|1000|Calculate ((n+a-1)/a) * ((m+a-1)/a) to get the output.|[Code](cf_problems/1000/1A.cpp)|
 |2|05.04.2025|69A|1000|Go through all inputs, track count for each x y z. Check if all sums are 0 in the end and output the result.|[Code](cf_problems/1000/69A.cpp)|
 |1|04.04.2025|118A|1000|Go through string, check for the vowel, if yes add a '.' to the place where the vowel would have been. Output the resulting string.|[Code](cf_problems/1000/118A.cpp)|
 
@@ -84,6 +84,7 @@
 
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|13|19.04.2025|282A|800|Check first and last char of input string for + or -. Add or subtract to the result. Output the result.|[Code](cf_problems/800/282A.cpp)|
 |12|19.04.2025|71A|800|For strings shorter that 10 return the string, for others return the first char + len-2 + last char. Output for each string.|[Code] (cf_problems/800/71A.cpp)|
 |11|19.04.2025|344A|800|Compare current to last magnet, if different add one to the groups. Output the groups in the end.|[Code](cf_problems/800/344A.cpp)|
 |10|04.04.2025|266A|800|Go through the string, if the last char is the same as the current, add one to the count and output the count in the end.|[Code](cf_problems/800/266A.cpp)|

@@ -1,6 +1,6 @@
-# 📰 Daily & Weekly Reading for HFT Prep (Jane Street, HRT, etc.)
+# 📰 Daily & Weekly Reading
 
-Use this to read 1–2 pieces every day or every other day. Stay mentally sharp, absorb HFT mindset, systems thinking, and math intuition.
+Use this to read 1–2 pieces every day or every other day. Stay mentally sharp, absorb mindset, systems thinking, and math intuition.
 
 ---
 

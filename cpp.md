@@ -1,4 +1,4 @@
-# C++ Concepts to Master for HFT Interviews (Jane Street, HRT, etc.)
+# C++ Concepts
 
 ## 🔧 Language Fundamentals
 - Value categories: lvalues, rvalues, glvalues

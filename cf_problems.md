@@ -84,6 +84,17 @@
 **30/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|44|20.04.2025|785A|800|Create map of figures with values of faces. Iterate through the input and keep count of the faces. Output the sum of faces in the end.|[Code](cf_problems/800/785A.cpp)|
+|43|20.04.2025|148A|800|Iterate the dragons and check for each if one of the inputs creates modulo 0. Count the hits. Output the hits in the end.|[Code](cf_problems/800/148A.cpp)|
+|42|20.04.2025|996A|800|For each bill, take as many of the highest bill and then move on to the next bill. Keep count of the bills used. Output the amount in the end.|[Code](cf_problems/800/996A.cpp)|
+|41|20.04.2025|144A|800|Keep track of min and max index and then calulate the distance to end/beginning. Keep in mind if they pass each other to substract 1. Output the result in the end.|[Code](cf_problems/800/144A.cpp)|
+|40|20.04.2025|469A|800|Iterate through input, add possible levels to a set. If set equals the length of the levels all levels can be done. Output according string.|[Code](cf_problems/800/469A.cpp)|
+|39|20.04.2025|520A|800|Set for keeping track of already seen chars, add to set if not seen. Output YES if set is size 26, else output NO.|[Code](cf_problems/800/520A.cpp)|
+|38|20.04.2025|1328A|800|For each a b check if a is divisible by b without leftover (=edgecase). Otherwise take b-(a%b), which is needed for a to be divisible by b. Output this number.|[Code](cf_problems/800/1328A.cpp)|
+|37|20.04.2025|705A|800|For each odd number and even number add the corresponding string. Edgecase if n=1. Output the result at the end.|[Code](cf_problems/800/705A.cpp)|
+|36|20.04.2025|228A|800|Create set to track colors that are duplicated, count these numbers. Output the count in the end.|[Code](cf_problems/800/228A.cpp)|
+|35|20.04.2025|61A|800|XOR all values and output the result.|[Code](cf_problems/800/61A.cpp)|
+|34|20.04.2025|200B|800|Add all values of of the percentages and divide by amount of values. Output this result.|[Code](cf_problems/800/200B.cpp)|
 |33|20.04.2025|136A|800|Create array with numbers of the gifters of the gift. Output the array in order.|[Code](cf_problems/800/136A.cpp)|
 |32|20.04.2025|486A|800|Check if even or odd. If odd, result is -(n/2 + 1), if even result is n/2. Output the result in the end.|[Code](cf_problems/800/486A.cpp)|
 |31|20.04.2025|467A|800|Iterate all rooms, if size - people >= 2 add one to the counter of possible rooms. Output the room amount at the end.|[Code](cf_problems/800/467A.cpp)|

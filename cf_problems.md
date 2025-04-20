@@ -84,6 +84,12 @@
 **30/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|50|21.04.2025|96A|900|.|[Code](cf_problems/900/96A.cpp)|
+|49|21.04.2025|405A|900|.|[Code](cf_problems/900/405A.cpp)|
+|48|21.04.2025|133A|900|.|[Code](cf_problems/900/133A.cpp)|
+|47|20.04.2025|318A|900|Differentiate between searching for odd or even number by seeing if k*2 smaller or greater than n. Find the kth even or odd number. Output that number in the end.|[Code](cf_problems/900/318A.cpp)|
+|46|20.04.2025|160A|900|Read input and save total sum of coins. Sort the coins descending. Iterate through the coins, checking everytime if mycoins are greater than half the coins, keep count of the coins. Output the cound of the coins in the end.|[Code](cf_problems/900/160A.cpp)|
+|45|20.04.2025|443A|800|Optional: Parse the input string to remove the spaces. Afterwards find out, with some string logic, the actual characters given in the input string. Save them in a set. Output the length of the set in the end.|[Code](cf_problems/800/443A.cpp)|
 |44|20.04.2025|785A|800|Create map of figures with values of faces. Iterate through the input and keep count of the faces. Output the sum of faces in the end.|[Code](cf_problems/800/785A.cpp)|
 |43|20.04.2025|148A|800|Iterate the dragons and check for each if one of the inputs creates modulo 0. Count the hits. Output the hits in the end.|[Code](cf_problems/800/148A.cpp)|
 |42|20.04.2025|996A|800|For each bill, take as many of the highest bill and then move on to the next bill. Keep count of the bills used. Output the amount in the end.|[Code](cf_problems/800/996A.cpp)|

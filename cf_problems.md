@@ -547,16 +547,16 @@
 |15||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |14||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |13||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|12||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|11||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|10||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|9||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|8||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|7||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|6||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|5||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|4||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|3||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|12||1490C|1100|Explanation.|[Code](cf_problems/1100/1490C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1490/C)|
+|11||1335C|1100|Explanation.|[Code](cf_problems/1100/1335C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1335/C)|
+|10||467B|1100|Explanation.|[Code](cf_problems/1100/467B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/467/B)|
+|9||519B|1100|Explanation.|[Code](cf_problems/1100/519B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/519/B)|
+|8||1327A|1100|Explanation.|[Code](cf_problems/1100/1327A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1327/A)|
+|7||368B|1100|Explanation.|[Code](cf_problems/1100/368B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/368/B)|
+|6||270A|1100|Explanation.|[Code](cf_problems/1100/270A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/270/A)|
+|5||313B|1100|Explanation.|[Code](cf_problems/1100/313B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/313/B)|
+|4||456A|1100|Explanation.|[Code](cf_problems/1100/456A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/456/A)|
+|3||363B|1100|Explanation.|[Code](cf_problems/1100/363B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/363/B)|
 |2||706B|1100|Explanation.|[Code](cf_problems/1100/706B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/706/B)|
 |1|06.04.2025|158B|1100|Count the groups of 1,2,3,4 people. If statement to prioritize matching while reducing the group count, for example 3s match with 1s, 2s with 2s, .... Output the taxi count at the end.|[Code](cf_problems/1100/158B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/158/B)|
 

@@ -607,7 +607,7 @@
 |11||43A|1000|Explanation.|[Code](cf_problems/1000/43A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/43/A)|
 |10||579A|1000|Explanation.|[Code](cf_problems/1000/579A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/579/A)|
 |9||339B|1000|Explanation.|[Code](cf_problems/1000/339B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/339/B)|
-|8||230A|1000|Explanation.|[Code](cf_problems/1000/230A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/230/A)|
+|8|21.04.2025|230A|1000|Get input of dragons, sort by strength. Go through dragons and fight the ones with lowest strength first. Output YES if all dragons got fought, else output NO in the end.|[Code](cf_problems/1000/230A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/230/A)|
 |7|19.04.2025|131A|1000|Make sure to cover all edge cases for strings of length 1. Other than that, check the restrictions and ouput the according string.|[Code](cf_problems/1000/131A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/131/A)|
 |6|05.04.2025|479A|1000|Return the max() of all the possible calculations.|[Code](cf_problems/1000/479A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/479/A)|
 |5|05.04.2025|122A|1000|If statement with modulo on all possible numbers between 0 and 1000 that contain a 7 or 4.|[Code](cf_problems/1000/122A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/122/A)|

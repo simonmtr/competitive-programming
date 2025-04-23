@@ -604,7 +604,7 @@
 |14||379A|1000|Explanation.|[Code](cf_problems/1000/379A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/379/A)|
 |13||1374C|1000|Explanation.|[Code](cf_problems/1000/1374C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1374/C)|
 |12||500A|1000|Explanation.|[Code](cf_problems/1000/500A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/500/A)|
-|11||43A|1000|Explanation.|[Code](cf_problems/1000/43A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/43/A)|
+|11|23.04.2025|43A|1000|Keep track of both teams and save the names of each team. Output the winning team in the end.|[Code](cf_problems/1000/43A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/43/A)|
 |10|23.04.2025|579A|1000|Check the binary implementation of goal bacteria. If the last bit is a 1 (number is odd) we have to put one bacteria in the box. We essentially divide by 2. Output the amount of bacterias put in the end.|[Code](cf_problems/1000/579A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/579/A)|
 |9|22.04.2025|339B|1000|For each target, use math to calculate how many steps are needed, differentiate between a>=b or a<b. Output the result in the end.|[Code](cf_problems/1000/339B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/339/B)|
 |8|21.04.2025|230A|1000|Get input of dragons, sort by strength. Go through dragons and fight the ones with lowest strength first. Output YES if all dragons got fought, else output NO in the end.|[Code](cf_problems/1000/230A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/230/A)|

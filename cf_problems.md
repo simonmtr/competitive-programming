@@ -602,7 +602,7 @@
 |16||476A|1000|Explanation.|[Code](cf_problems/1000/476A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/476/A)|
 |15||584A|1000|Explanation.|[Code](cf_problems/1000/584A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/584/A)|
 |14||379A|1000|Explanation.|[Code](cf_problems/1000/379A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/379/A)|
-|13||1374C|1000|Explanation.|[Code](cf_problems/1000/1374C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1374/C)|
+|13|23.04.2025|1374C|1000|Everytime we find a closed bracket while having similar amounts of closed and open brackets before, we shift that closed bracket to the end, so we add +1 to the count of operations. Output the count of operations in the end.|[Code](cf_problems/1000/1374C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1374/C)|
 |12|23.04.2025|500A|1000|At each step check if we are at the target house, if no we check if our target is smaller than our current point. If thats the case we output NO as we can not go back. Output YES if we are at the target.|[Code](cf_problems/1000/500A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/500/A)|
 |11|23.04.2025|43A|1000|Keep track of both teams and save the names of each team. Output the winning team in the end.|[Code](cf_problems/1000/43A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/43/A)|
 |10|23.04.2025|579A|1000|Check the binary implementation of goal bacteria. If the last bit is a 1 (number is odd) we have to put one bacteria in the box. We essentially divide by 2. Output the amount of bacterias put in the end.|[Code](cf_problems/1000/579A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/579/A)|

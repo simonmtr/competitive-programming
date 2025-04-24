@@ -597,7 +597,7 @@
 |21||1476A|1000|Explanation.|[Code](cf_problems/1000/1476A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1476/A)|
 |20||499B|1000|Explanation.|[Code](cf_problems/1000/499B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/499/B)|
 |19||577A|1000|Explanation.|[Code](cf_problems/1000/577A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/577/A)|
-|18||1342A|1000|Explanation.|[Code](cf_problems/1000/1342A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1342/A)|
+|18|24.04.2025|1342A|1000|Check if a+a>b or <=b and therefore get the cheapest values and best strategy. Output the min number.|[Code](cf_problems/1000/1342A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1342/A)|
 |17|24.04.2025|742A|1000|1378 to the power of t is the same as 8 to the power of t. For that we have only some options so we just have multiple ifs for each statement. Output the correct number.|[Code](cf_problems/1000/742A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/742/A)|
 |16|23.04.2025|476A|1000|Minimum number of moves is n/2 and maximum number is n. Now we have to find the minimum that is also divisible by m, which is possible by ((minimum+m-1)/m)*m. Output that result if its smaller than n, else output -1.|[Code](cf_problems/1000/476A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/476/A)|
 |15|23.04.2025|584A|1000|Check edge case for when t=10 and n=1. When t = 10 thenw we can take any number and add 10 at the end. For any other t we can just have tttttt... depending on the amount of n. Use strings not int/longlong/.. as the numbers get big. Output the string in the end.|[Code](cf_problems/1000/584A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/584/A)|

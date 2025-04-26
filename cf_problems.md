@@ -580,6 +580,7 @@
 |38||1520C|1000|Explanation.|[Code](cf_problems/1000/1520C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1520/C)|
 |37||1840C|1000|Explanation.|[Code](cf_problems/1000/1840C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1840/C)|
 |36||1913B|1000|Explanation.|[Code](cf_problems/1000/1913B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1913/B)|
+-
 |35||1883C|1000|Explanation.|[Code](cf_problems/1000/1883C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1883/C)|
 |34||139A|1000|Explanation.|[Code](cf_problems/1000/139A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/139/A)|
 |33||688B|1000|Explanation.|[Code](cf_problems/1000/688B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/688/B)|
@@ -589,7 +590,8 @@
 |29||766B|1000|Explanation.|[Code](cf_problems/1000/766B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/B)|
 |28||1985C|1000|Explanation.|[Code](cf_problems/1000/1985C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1985/C)|
 |27||1791D|1000|Explanation.|[Code](cf_problems/1000/1791D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/D)|
-|26||1999B|1000|Explanation.|[Code](cf_problems/1000/1999B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/B)|
+|26|26.04.2025|1999B|1000|Simulate each game for unfolding each possibility. Output the games where we win in the end.|[Code](cf_problems/1000/1999B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/B)|
+-
 |25|25.04.2025|1353C|1000|For each step away from the middle we need one more step to the middle for the piece. In the center, its 8 pieces, then 16, then 24 and so on, so every time 8 more. So we have a sum of 1*8+2*16+3*24+... -> we can make a loop to sum this up. Output the result in the end.|[Code](cf_problems/1000/1353C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1353/C)|
 |24|25.04.2025|450A|1000|Find the highest number the most in the back of the line. Save the index. Output that index.|[Code](cf_problems/1000/450A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/450/A)|
 |23|25.04.2025|1521A|1000|We use A and A*B as the numbers we sum together and equal it to A*(B+1). Output these Numbers, beware of edge case when b is equal to 1.|[Code](cf_problems/1000/1521A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1521/A)|

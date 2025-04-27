@@ -582,7 +582,7 @@
 |36||1913B|1000|Explanation.|[Code](cf_problems/1000/1913B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1913/B)|
 -
 |35||1883C|1000|Explanation.|[Code](cf_problems/1000/1883C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1883/C)|
-|34||139A|1000|Explanation.|[Code](cf_problems/1000/139A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/139/A)|
+|34|27.04.2025|139A|1000|Read the input and go through each day, substracting the pages read. Do that while there are pages left. Output the current day in the end when no pages are left.|[Code](cf_problems/1000/139A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/139/A)|
 |33|27.04.2025|688B|1000|The nth number is always the input number + the input number in reverse. Output that number as a string.|[Code](cf_problems/1000/688B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/688/B)|
 |32|27.04.2025|268B|1000|For each step in the input the formula is  (i + 1) * (t - i) - i; to calculate the cost of this step. Output the result in the end.|[Code](cf_problems/1000/268B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/268/B)|
 |31|27.04.2025|1141A|1000|Check if m is divisible by n. If yes continue and divide m/n, then use that number and divide it by 2 until not possible anymore, then divide by 3 until not possible anymore. If the result number is not 1, output -1. Otherwise output the number of loops of division as a result.|[Code](cf_problems/1000/1141A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1141/A)|

@@ -562,7 +562,7 @@
 
 ## 1000
 
-**Total: 7/50**
+**Total: 47/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50|28.04.2025|1256A|1000|Check if we have enough ones, if no the output NO. Otherwise, check if we have enough n coins combined with the one coins to reach the goal. Output yes if thats the case.|[Code](cf_problems/1000/1256A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1256/A)|

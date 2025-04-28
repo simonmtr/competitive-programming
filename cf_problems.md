@@ -568,7 +568,7 @@
 |50||1256A|1000|Explanation.|[Code](cf_problems/1000/1256A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1256/A)|
 |49||1849B|1000|Explanation.|[Code](cf_problems/1000/1849B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1849/B)|
 |48||1931C|1000|Explanation.|[Code](cf_problems/1000/1931C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1931/C)|
-|47||1326A|1000|Explanation.|[Code](cf_problems/1000/1326A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1326/A)|
+|47|28.04.2025|1326A|1000|There is some numbers this works for, for example 477777... or 233333.... and so on. Output that number if n!=1.|[Code](cf_problems/1000/1326A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1326/A)|
 |46|28.04.2025|118B|1000|Implementation effort, not much more to say, go through each row and calculate the spaces needed, afterwards put the numbers that are needed. Output the lines one by one.|[Code](cf_problems/1000/118B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/118/B)|
 |45||1859B|1000|DO LATER.|[Code](cf_problems/1000/1859B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1859/B)|
 |44|28.04.2025|1744C|1000|Duplicate the string to get rid of the circle. Then for each time we find c, count until we find 'g' and keep a max count. Output the max count in the end.|[Code](cf_problems/1000/1744C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1744/C)|

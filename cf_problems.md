@@ -566,7 +566,7 @@
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||1256A|1000|Explanation.|[Code](cf_problems/1000/1256A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1256/A)|
-|49||1849B|1000|Explanation.|[Code](cf_problems/1000/1849B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1849/B)|
+|49|28.04.2025|1849B|1000|Read all inputs of the array, modulo them by k as we then don't have to divide them by it and we know the monsters which would have the highest health are the ones where monster_health%k == 0, therefore set them to value k. Use a second array to order the indices, where we then compare the values of the indices with each other. Afterwards we have an ordered vector of the indices only. Output that array in order.|[Code](cf_problems/1000/1849B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1849/B)|
 |48|28.04.2025|1931C|1000|Have a counter for the longest suffix and prefix of numbers. Result is then the lenght of the array - longest suffix/prefix. Output that number.|[Code](cf_problems/1000/1931C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1931/C)|
 |47|28.04.2025|1326A|1000|There is some numbers this works for, for example 477777... or 233333.... and so on. Output that number if n!=1.|[Code](cf_problems/1000/1326A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1326/A)|
 |46|28.04.2025|118B|1000|Implementation effort, not much more to say, go through each row and calculate the spaces needed, afterwards put the numbers that are needed. Output the lines one by one.|[Code](cf_problems/1000/118B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/118/B)|

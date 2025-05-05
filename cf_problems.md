@@ -454,7 +454,7 @@
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|49||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|49||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|vf
 |48||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |47||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |46||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -557,7 +557,7 @@
 |5||313B|1100|Explanation.|[Code](cf_problems/1100/313B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/313/B)|
 |4||456A|1100|Explanation.|[Code](cf_problems/1100/456A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/456/A)|
 |3||363B|1100|Explanation.|[Code](cf_problems/1100/363B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/363/B)|
-|2||706B|1100|Explanation.|[Code](cf_problems/1100/706B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/706/B)|
+|2|05.05.2025|706B|1100|Use Upper_bound for finding the correct element in the sorted list of stores and then substract the length of the array of the stores. Output that number in the end.|[Code](cf_problems/1100/706B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/706/B)|
 |1|06.04.2025|158B|1100|Count the groups of 1,2,3,4 people. If statement to prioritize matching while reducing the group count, for example 3s match with 1s, 2s with 2s, .... Output the taxi count at the end.|[Code](cf_problems/1100/158B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/158/B)|
 
 ## 1000
@@ -586,7 +586,7 @@
 |32|27.04.2025|268B|1000|For each step in the input the formula is  (i + 1) * (t - i) - i; to calculate the cost of this step. Output the result in the end.|[Code](cf_problems/1000/268B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/268/B)|
 |31|27.04.2025|1141A|1000|Check if m is divisible by n. If yes continue and divide m/n, then use that number and divide it by 2 until not possible anymore, then divide by 3 until not possible anymore. If the result number is not 1, output -1. Otherwise output the number of loops of division as a result.|[Code](cf_problems/1000/1141A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1141/A)|
 |30|26.04.2025|1690D|1000|Use prefix sum to count all W's to that point, then go through the sums and look at how many W's we have in the last k elements. Output the minimum of this value.|[Code](cf_problems/1000/1690D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1690/D)|
-|29|We sort the array first. Then for each 3 piece we check, if the two smaller sides x and y are bigger than the bigger z. Only if x+y > z we can actually form a good triangle. Output YES if we find that, otherwise no.|766B|1000|Explanation.|[Code](cf_problems/1000/766B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/B)|
+|29|26.04.2025|766B|1000|We sort the array first. Then for each 3 piece we check, if the two smaller sides x and y are bigger than the bigger z. Only if x+y > z we can actually form a good triangle. Output YES if we find that, otherwise no..|[Code](cf_problems/1000/766B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/B)|
 |28|26.04.2025|1985C|1000|The only way this is possible is with the highest number, as all numbers are positive. So for each input we get the max number seen so far and check if the sum of all elements minus the max number is equal to the max number. If yes, add one to the results. Output the result count in the end.|[Code](cf_problems/1000/1985C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1985/C)|
 |27|26.04.2025|1791D|1000|Try out every possiblity, easily done by having two vectors with 0 for chars that are not in the string and 1 for chars that are in the string. Output the maximum number of all possibilities in the end.|[Code](cf_problems/1000/1791D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/D)|
 |26|26.04.2025|1999B|1000|Simulate each game for unfolding each possibility. Output the games where we win in the end.|[Code](cf_problems/1000/1999B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/B)|

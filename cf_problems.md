@@ -558,14 +558,14 @@
 |7||368B|1100|Explanation.|[Code](cf_problems/1100/368B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/368/B)|
 |6||270A|1100|Explanation.|[Code](cf_problems/1100/270A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/270/A)|
 |5||313B|1100|Explanation.|[Code](cf_problems/1100/313B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/313/B)|
-|4||456A|1100|Explanation.|[Code](cf_problems/1100/456A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/456/A)|
+|4|06.05.2025|456A|1100|We just have to check for each laptop, if there is one where a != b. The constraints say that b will never be lower than a, so thats why this is such a simple solution. Output the corresponding message in the end.|[Code](cf_problems/1100/456A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/456/A)|
 |3|05.05.2025|363B|1100|Using prefix sum for all check the last k elements and the minimal sum, save that minimal index. Output the index in the end.|[Code](cf_problems/1100/363B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/363/B)|
 |2|05.05.2025|706B|1100|Use Upper_bound for finding the correct element in the sorted list of stores and then substract the length of the array of the stores. Output that number in the end.|[Code](cf_problems/1100/706B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/706/B)|
 |1|06.04.2025|158B|1100|Count the groups of 1,2,3,4 people. If statement to prioritize matching while reducing the group count, for example 3s match with 1s, 2s with 2s, .... Output the taxi count at the end.|[Code](cf_problems/1100/158B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/158/B)|
 
 ## 1000
 
-**Total: 47/50**
+**Total: 50/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50|28.04.2025|1256A|1000|Check if we have enough ones, if no the output NO. Otherwise, check if we have enough n coins combined with the one coins to reach the goal. Output yes if thats the case.|[Code](cf_problems/1000/1256A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1256/A)|

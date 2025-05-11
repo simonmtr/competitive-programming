@@ -551,7 +551,7 @@
 |14||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |13||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |12||1490C|1100|Explanation.|[Code](cf_problems/1100/1490C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1490/C)|
-|11||1335C|1100|Explanation.|[Code](cf_problems/1100/1335C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1335/C)|
+|11|11.05.2025|1335C|1100|Find the highest count of one number and the count of the different numbers. The answer can not be lower than the amount of different numbers or the count of the highest occuring number. Two cases exists, one that we can make two arrays with all the same numbers OR the same numbers - 1. Output that calculation in the end.|[Code](cf_problems/1100/1335C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1335/C)|
 |10|10.05.2025|467B|1100|Using Brian Kernighan’s Algorithm to find the difference between two numbers and compare it with k, if its smaller or equal to k, add one to the result. Output that result in the end.|[Code](cf_problems/1100/467B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/467/B)|
 |9|10.05.2025|519B|1100|Calculate the sums of the arrays and find the difference. Output that difference each step.|[Code](cf_problems/1100/519B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/519/B)|
 |8|10.05.2025|1327A|1100|Two options for it to be a NO: k*k > n or n%2 != k%2. Output the result proper answer after an if statement.|[Code](cf_problems/1100/1327A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1327/A)|

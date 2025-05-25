@@ -538,7 +538,7 @@
 |27||1676E|1100|Explanation.|[Code](problems/1100/1676E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1676/E)|
 |26||1324B|1100|Explanation.|[Code](problems/1100/1324B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1324/B)|
 |25||919B|1100|Explanation.|[Code](problems/1100/919B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/919/B)|
-|24||2009C|1100|Explanation.|[Code](problems/1100/2009C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2009/C)|
+|24|25.05.2025|2009C|1100|Look at every direction by itself. If one direction is bigger than the other, we know that direction * 2 is needed as result. Calculate the steps needed. Output that number in the end.|[Code](problems/1100/2009C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2009/C)|
 |23|25.05.2025|1999D|1100|Have two pointers and go through the strings, everytime we have a match or a question mark we increase a counter. If the counter in the end is longer or same as the t-string, we know we achieved the replacement. Output yes or no in the end.|[Code](problems/1100/1999D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/D)|
 |22|25.05.2025|227B|1100|Basically calculate both the ways for each of the people. Output that number in the end..|[Code](problems/1100/227B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/227/B)|
 |21|25.05.2025|1409B|1100|We either want to always decrease a or always decrease b. Find that out and then calculate the result. Output that result.|[Code](problems/1100/1409B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1409/B)|

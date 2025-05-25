@@ -540,7 +540,7 @@
 |25||919B|1100|Explanation.|[Code](problems/1100/919B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/919/B)|
 |24||2009C|1100|Explanation.|[Code](problems/1100/2009C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2009/C)|
 |23||1999D|1100|Explanation.|[Code](problems/1100/1999D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/D)|
-|22||227B|1100|Explanation.|[Code](problems/1100/227B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/227/B)|
+|22|25.05.2025|227B|1100|Basically calculate both the ways for each of the people. Output that number in the end..|[Code](problems/1100/227B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/227/B)|
 |21|25.05.2025|1409B|1100|We either want to always decrease a or always decrease b. Find that out and then calculate the result. Output that result.|[Code](problems/1100/1409B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1409/B)|
 |20|25.05.2025|1669F|1100|Try every posssibility and have two pointers, give alice a candy if he has currently less candy, else give it to Bob. If the difference of the weights is zero, update the sum of candies. Output the max sum of candies in the end.|[Code](problems/1100/1669F.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1669/F)|
 |19|25.05.2025|82A|1100|Take a number as 1, as long as this number times 5 (number of people) is not bigger than n, we update n and substract number*5, then we update the number by doubling it. Output the correct number name in the end, the person that is (n-1)/number in the list.|[Code](problems/1100/82A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/82/A)|

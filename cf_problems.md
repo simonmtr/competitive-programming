@@ -536,7 +536,7 @@
 |29||1213B|1100|Explanation.|[Code](problems/1100/1213B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1213/B)|
 |28||1324C|1100|Explanation.|[Code](problems/1100/1324C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1324/C)|
 |27||1676E|1100|Explanation.|[Code](problems/1100/1676E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1676/E)|
-|26||1324B|1100|Explanation.|[Code](problems/1100/1324B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1324/B)|
+|26|25.05.2025|1324B|1100|Brute force, for each number check all the next numbers, if they are similar, the lenght has to be greater than two though. Output yes or no in the end depending if the palindrome is found.|[Code](problems/1100/1324B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1324/B)|
 |25|25.05.2025|919B|1100|Brute force go through all the options by counting numbers up. Output the correct number in the end.|[Code](problems/1100/919B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/919/B)|
 |24|25.05.2025|2009C|1100|Look at every direction by itself. If one direction is bigger than the other, we know that direction * 2 is needed as result. Calculate the steps needed. Output that number in the end.|[Code](problems/1100/2009C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2009/C)|
 |23|25.05.2025|1999D|1100|Have two pointers and go through the strings, everytime we have a match or a question mark we increase a counter. If the counter in the end is longer or same as the t-string, we know we achieved the replacement. Output yes or no in the end.|[Code](problems/1100/1999D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/D)|

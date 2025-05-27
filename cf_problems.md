@@ -532,7 +532,7 @@
 |33||1914C|1100|Explanation.|[Code](problems/1100/1914C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1914/C)|
 |32||463B|1100|Explanation.|[Code](problems/1100/463B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/463/B)|
 |31||1914C|1100|Explanation.|[Code](problems/1100/1914C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1914/C)|
-|30||463B|1100|Explanation.|[Code](problems/1100/463B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/463/B)|
+|30|27.05.2025|463B|1100|Go through the input, if the energy ever goes below 0 we add this number in positive to our result. Output the sum of this in the end.|[Code](problems/1100/463B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/463/B)|
 |29|26.05.2025|1213B|1100|Iterate prices from right to left and keep track of the minimum seen so far. Count the numbers bigger than the minimum. Output that number in the end.|[Code](problems/1100/1213B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1213/B)|
 |28|26.05.2025|1324C|1100|Only look at the R values, make a list of their indexes. To get the result, we jump between the R places. Output the maximum of value of (r[i+1] - r[i]).|[Code](problems/1100/1324C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1324/C)|
 |27|26.05.2025|1676E|1100|Sort the sugar values, then create a new array for the prefix sum to make it more efficient. Binary search through that afterwards for each query. Output the correct number in the end.|[Code](problems/1100/1676E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1676/E)|

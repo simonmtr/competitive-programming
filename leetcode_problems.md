@@ -1,18 +1,19 @@
 # Leetcode Problems done
 
 
-|ID|DATE|RATING|NOTES|LINK|URL|
-|----|--|------|-----|----|------|
+|ID|RATING|NOTES|LINK|URL|
+|--|------|-----|----|---|
 |**EASY**|**EASY**|**EASY**|**EASY**|**EASY**|**EASY**|
-|1|31.05.2025|easy|Map for tracking the value and the index, go through all the values and stop as soon as we find a number that fits.|[Code](problems/leetcode/1.cpp)|[LC_URL](https://leetcode.com/problems/two-sum/description/)|
-|125|01.06.2025|easy|Two pointers, if not alpha numerical skip char, if alpha numerical compare left and right char. Go through whole string.|[Code](problems/leetcode/125.cpp)|[LC_URL](https://leetcode.com/problems/valid-palindrome/description/)|
-|217|31.05.2025|easy|Set for keeping seen numbers, if we find number in the set, we return.|[Code](problems/leetcode/217.cpp)|[LC_URL](https://leetcode.com/problems/contains-duplicate/description/)|
-|242|31.05.2025|easy|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code](problems/leetcode/242.cpp)|[LC_URL](https://leetcode.com/problems/valid-anagram/description/)|
+|1|easy|Map for tracking the value and the index, go through all the values and stop as soon as we find a number that fits.|[Code](problems/leetcode/1.cpp)|[LC_URL](https://leetcode.com/problems/two-sum/description/)|
+|125|easy|Two pointers, if not alpha numerical skip char, if alpha numerical compare left and right char. Go through whole string.|[Code](problems/leetcode/125.cpp)|[LC_URL](https://leetcode.com/problems/valid-palindrome/description/)|
+|217|easy|Set for keeping seen numbers, if we find number in the set, we return.|[Code](problems/leetcode/217.cpp)|[LC_URL](https://leetcode.com/problems/contains-duplicate/description/)|
+|242|easy|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code](problems/leetcode/242.cpp)|[LC_URL](https://leetcode.com/problems/valid-anagram/description/)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
-|36|01.06.2025|medium|Implementation only, keep track of all boxes, rows and colums in separate data structures and iterate through the input.|[Code](problems/leetcode/36.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
-|49|31.05.2025|medium|Use array of 26 chars as key for a dictionary, save all anagrams strings in there. Output that anagrams in the end.|[Code](problems/leetcode/49.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
-|128|31.05.2025|medium|Create a set for the numbers, then iterate through the set and for each number we check, if the next, and the next to next and so on number is in the set, only if the previous number is not in the set though. We keep count of the max sequence.|[Code](problems/leetcode/128.cpp)|[LC_URL](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
-|238|01.06.2025|medium|Iterate through the list from both sides, keeping count from beginning and ending. Create new vector/array with these values.|[Code](problems/leetcode/238.cpp)|[LC_URL](https://leetcode.com/problems/product-of-array-except-self/description/)|
-|347|01.06.2025|medium|Prio Queue with pair of {number, count}. Build the heap and keep K elements in it. In the end iterate through the heap and output the resulting numbers.|[Code](problems/leetcode/347.cpp)|[LC_URL](https://leetcode.com/problems/top-k-frequent-elements/description/)|
+|36|medium|Implementation only, keep track of all boxes, rows and colums in separate data structures and iterate through the input.|[Code](problems/leetcode/36.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
+|49|medium|Use array of 26 chars as key for a dictionary, save all anagrams strings in there. Output that anagrams in the end.|[Code](problems/leetcode/49.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
+|128|medium|Create a set for the numbers, then iterate through the set and for each number we check, if the next, and the next to next and so on number is in the set, only if the previous number is not in the set though. We keep count of the max sequence.|[Code](problems/leetcode/128.cpp)|[LC_URL](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
+|167|medium|Two pointers, works as its sorted, and decrease right pointer if number is too big, increase left pointer if too small. If goal is found return left and right pointer values.|[Code](problems/leetcode/167.cpp)|[LC_URL](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|
+|238|medium|Iterate through the list from both sides, keeping count from beginning and ending. Create new vector/array with these values.|[Code](problems/leetcode/238.cpp)|[LC_URL](https://leetcode.com/problems/product-of-array-except-self/description/)|
+|347|medium|Prio Queue with pair of {number, count}. Build the heap and keep K elements in it. In the end iterate through the heap and output the resulting numbers.|[Code](problems/leetcode/347.cpp)|[LC_URL](https://leetcode.com/problems/top-k-frequent-elements/description/)|
 |**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|
-|X|30.05.2025|easy|Explanation.|[Code](problems/leetcode/XA.cpp)|[LC_URL](URL)|
+|X|easy|Explanation.|[Code](problems/leetcode/XA.cpp)|[LC_URL](URL)|

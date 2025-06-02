@@ -9,6 +9,7 @@
 |217|easy|Set for keeping seen numbers, if we find number in the set, we return.|[Code](problems/leetcode/217.cpp)|[LC_URL](https://leetcode.com/problems/contains-duplicate/description/)|
 |242|easy|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code](problems/leetcode/242.cpp)|[LC_URL](https://leetcode.com/problems/valid-anagram/description/)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
+|11|medium|Two pointers, go from outside to the middle and always calculate the max water, move away from the smaller 'pillar'.|[Code](problems/leetcode/11.cpp)|[LC_URL](https://leetcode.com/problems/container-with-most-water/description/)|
 |15|medium|Three pointers, for each number do a two pointer method and calculate the total. if the total is found, add it to a list and return that list in the end.|[Code](problems/leetcode/15.cpp)|[LC_URL](https://leetcode.com/problems/3sum/description/)|
 |36|medium|Implementation only, keep track of all boxes, rows and colums in separate data structures and iterate through the input.|[Code](problems/leetcode/36.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
 |49|medium|Use array of 26 chars as key for a dictionary, save all anagrams strings in there. Output that anagrams in the end.|[Code](problems/leetcode/49.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|

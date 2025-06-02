@@ -17,5 +17,7 @@
 |167|medium|Two pointers, works as its sorted, and decrease right pointer if number is too big, increase left pointer if too small. If goal is found return left and right pointer values.|[Code](problems/leetcode/167.cpp)|[LC_URL](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|
 |238|medium|Iterate through the list from both sides, keeping count from beginning and ending. Create new vector/array with these values.|[Code](problems/leetcode/238.cpp)|[LC_URL](https://leetcode.com/problems/product-of-array-except-self/description/)|
 |347|medium|Prio Queue with pair of {number, count}. Build the heap and keep K elements in it. In the end iterate through the heap and output the resulting numbers.|[Code](problems/leetcode/347.cpp)|[LC_URL](https://leetcode.com/problems/top-k-frequent-elements/description/)|
+|**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|
+|42|hard|Left and right pointer as well as a maximum value of left and right, the for each step of the way we calculate the water trapped in that step. Return the volume of the water in the end.|[Code](problems/leetcode/42.cpp)|[LC_URL](https://leetcode.com/problems/trapping-rain-water/description/)|
 |**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|
 |X|easy|Explanation.|[Code](problems/leetcode/XA.cpp)|[LC_URL](URL)|

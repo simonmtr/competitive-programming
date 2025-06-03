@@ -5,6 +5,7 @@
 |--|------|-----|----|---|
 |**EASY**|**EASY**|**EASY**|**EASY**|**EASY**|**EASY**|
 |1|easy|Map for tracking the value and the index, go through all the values and stop as soon as we find a number that fits.|[Code](problems/leetcode/1.cpp)|[LC_URL](https://leetcode.com/problems/two-sum/description/)|
+|121|easy|Go through all prices and always save the lowest, max = difference from lowest - current.|[Code](problems/leetcode/121.cpp)|[LC_URL](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|
 |125|easy|Two pointers, if not alpha numerical skip char, if alpha numerical compare left and right char. Go through whole string.|[Code](problems/leetcode/125.cpp)|[LC_URL](https://leetcode.com/problems/valid-palindrome/description/)|
 |217|easy|Set for keeping seen numbers, if we find number in the set, we return.|[Code](problems/leetcode/217.cpp)|[LC_URL](https://leetcode.com/problems/contains-duplicate/description/)|
 |242|easy|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code](problems/leetcode/242.cpp)|[LC_URL](https://leetcode.com/problems/valid-anagram/description/)|

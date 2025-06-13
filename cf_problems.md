@@ -2,7 +2,6 @@
 
 ## 2000
 
-**Total: 0/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|2000|Explanation.|[Code](problems/2000/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -58,7 +57,6 @@
 
 ## 1900
 
-**Total: 0/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1900|Explanation.|[Code](problems/1900/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -114,7 +112,6 @@
 
 ## 1800
 
-**Total: 0/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1800|Explanation.|[Code](problems/1800/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -170,7 +167,6 @@
 
 ## 1700
 
-**Total: 1/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1700|Explanation.|[Code](problems/1700/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -226,7 +222,6 @@
 
 ## 1600
 
-**Total: 0/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1600|Explanation.|[Code](problems/1600/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -282,7 +277,6 @@
 
 ## 1500
 
-**Total: 3/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1500|Explanation.|[Code](problems/1500/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -338,7 +332,6 @@
 
 ## 1400
 
-**Total: 1/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1400|Explanation.|[Code](problems/1400/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -393,8 +386,6 @@
 |1|520B|1400|BFS with keeping track of the depth on in the visited list. If the value is equal to m, output the depth.|[Code](problems/1400/520B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/520/B)|
 
 ## 1300
-
-**Total: 3/50**
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
@@ -451,8 +442,6 @@
 
 ## 1200
 
-**Total: 4/50**
-
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|X|1200|Explanation.|[Code](problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -508,13 +497,13 @@
 
 ## 1100
 
-**Total: 1/50**
-
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
+|50|1899B|1100|Explanation.|[Code](problems/1100/1899B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1899/B)|
+|49|1899C|1100|Explanation.|[Code](problems/1100/1899C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1899/C)|
 |48|2004C|1100|Explanation.|[Code](problems/1100/2004C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2004/C)|
 |47|1382B|1100|Explanation.|[Code](problems/1100/1382B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1382/B)|
-|46|1618C|1100|Explanation.|[Code](problems/1100/1618C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1618/C)|
+|46|1618C|1100|Find gcd of odd and even numbers. Then check if all the numbers on the odd and even numbers are not a multiple of that divisor. Output the gcd of the even or the odd positions if this was not found, otherwise output 0.|[Code](problems/1100/1618C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1618/C)|
 |45|1624C|1100|For each input we greedily take the first match, once we take the input and divide it by 2. If that number is already taken, we divide by 2 until we find a match. If there is no match and the number gets to 0 we know that we did not succeed and the output has to be NO. Output YES otherwise in the end.|[Code](problems/1100/1624C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1624/C)|
 |44|1832B|1100|Order the input, create a prefix sum list with the ordered input. Then check the maximal sum possible for k times while restricting the prefix sum array with the options we have, taking 2 min number or 1 max number. Output the max result in the end.|[Code](problems/1100/1832B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1832/B)|
 |43|1791G1|1100|We check the cost for each portal from point 0, as once we remove a portal actually its the same problem again. Therefore each portal we take we always take the cheapes (use prio queue) until we can not take any portal anymore. Keep a counter for that. Output that count in the end.|[Code](problems/1100/1791G1.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/G1)|
@@ -563,7 +552,6 @@
 
 ## 1000
 
-**Total: 50/50**
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
 |50|1256A|1000|Check if we have enough ones, if no the output NO. Otherwise, check if we have enough n coins combined with the one coins to reach the goal. Output yes if thats the case.|[Code](problems/1000/1256A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1256/A)|
@@ -618,7 +606,7 @@
 |1|118A|1000|Go through string, check for the vowel, if yes add a '.' to the place where the vowel would have been. Output the resulting string.|[Code](problems/1000/118A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/118/A)|
 
 ## <1000
-**50/50**
+
 |COUNTER|ID|RATING|NOTES|CODE|CF-URL|
 |-------|--|------|-----|----|------|
 |50|96A|900|Keep a counter of ones and zeroes until one counter reaches 7. Output YES if thats the case, otherwise output NO in the end.|[Code](problems/900/96A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/96/A)|

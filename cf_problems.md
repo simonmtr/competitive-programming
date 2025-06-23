@@ -1,4 +1,4 @@
-# CF Problems done
+# CF Problems
 
 ## 2000
 

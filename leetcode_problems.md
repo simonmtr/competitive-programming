@@ -1,4 +1,4 @@
-# Leetcode Problems done
+# Leetcode Problems
 
 
 |ID|NOTES|LINK|URL|

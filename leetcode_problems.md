@@ -24,5 +24,6 @@
 |**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|
 |42|hard|Left and right pointer as well as a maximum value of left and right, the for each step of the way we calculate the water trapped in that step. Return the volume of the water in the end.|[Code](problems/leetcode/42.cpp)|[LC_URL](https://leetcode.com/problems/trapping-rain-water/description/)|
 |76|hard|Map for the letters we have to find. Two pointers to check for each index until all the needed chars are found. In the end, check the lowest length. Output that number.|[Code](problems/leetcode/76.cpp)|[LC_URL](https://leetcode.com/problems/minimum-window-substring/description/)|
+|239|hard|Use a vector for the result, deque for the checking. For each step, remove the numbers that are smaller than the current one. Remove also the number that is i-k so that we remove the one that is not in the window. Output the result of the highest numbers, the front of the deque, for each window.|[Code](problems/leetcode/239.cpp)|[LC_URL](https://leetcode.com/problems/sliding-window-maximum/description/)|
 |**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|
 |X|easy|Explanation.|[Code](problems/leetcode/XA.cpp)|[LC_URL](URL)|

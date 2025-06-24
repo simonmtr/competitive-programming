@@ -44,3 +44,23 @@
 |floating point|l or L|long double|
 |string|s|std::string|
 |string|sv|std::string_view|
+
+
+
+
+## Input Reading
+
+| C++ Type             | `scanf` Format                                   | Notes                                                                 |
+| -------------------- | ------------------------------------------------ | --------------------------------------------------------------------- |
+| `int`                | `%d`                                             | Most common integer type                                              |
+| `long`               | `%ld`                                            | Rarely used                                                           |
+| `long long`          | `%lld`                                           | For 64-bit integers (e.g., numbers up to 10¹⁸)                        |
+| `unsigned int`       | `%u`                                             | Unsigned 32-bit int                                                   |
+| `unsigned long`      | `%lu`                                            |                                                                       |
+| `unsigned long long` | `%llu`                                           | 64-bit unsigned integer                                               |
+| `float`              | `%f`                                             | For decimal numbers with less precision                               |
+| `double`             | `%lf`                                            | Note: `%lf` is needed for `double` (unlike `printf` where `%f` works) |
+| `char`               | `%c`                                             | Reads a single character (will read whitespace!)                   |
+| `char[]` (C-string)  | `%s`                                             | Reads word until space/newline — use for fast string input            |
+| `string` (C++)       | Not supported directly — use `cin` or `char[]` |                                                                       |
+

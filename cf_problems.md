@@ -489,7 +489,7 @@
 |8|489B|1200|Explanation.|[Code](problems/1200/489B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/489/B)|
 |7|1520D|1200|Explanation.|[Code](problems/1200/1520D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1520/D)|
 |6|474B|1200|Explanation.|[Code](problems/1200/474B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/474/B)|
-|5|492B|1200|Explanation.|[Code](problems/1200/492B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/492/B)|
+|5|492B|1200|Sort the input, look for the biggest gap. Keep the Max outside as well as min outside position in mind.|[Code](problems/1200/492B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/492/B)|
 |4|514A|1200|All numbers >4 should be switched, except the leading 9.|[Code](problems/1200/514A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/514/A)|
 |3|1352C|1200|Calculate the kth integer which we then have to increase for each multiplier of n up to that point|[Code](problems/1200/1352C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1352/C)|
 |2|466A|1200|Check edgecase if its cheaper to just always take the one stop ticket over the multistop ticket. If no, calculate the amounts of being able to use the multistop ticket and the min of using a multistop or multiple one stop tickets for the rest of the trip. Output that calculation.|[Code](problems/1200/466A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/466/A)|

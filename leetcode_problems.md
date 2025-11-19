@@ -18,6 +18,7 @@
 |226|Recursively switch left and right subtree of the current node.|[Code CPP](problems/leetcode/226.cpp)|[Code Python](problems/leetcode/226.py)|[LC_URL](https://leetcode.com/problems/invert-binary-tree)|
 |242|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code CPP](problems/leetcode/242.cpp)|[Code Python](problems/leetcode/242.py)|[LC_URL](https://leetcode.com/problems/valid-anagram)|
 |543|Count the edges from below to up, always take the max of right+left subtree.|[Code CPP](problems/leetcode/543.cpp)|[Code Python](problems/leetcode/543.py)|[LC_URL](https://leetcode.com/problems/diameter-of-binary-tree)|
+|572|Recursively check left and right subtree and compare (See LC 100). Do that for each subtree.|[Code CPP](problems/leetcode/572.cpp)|[Code Python](problems/leetcode/572.py)|[LC_URL](https://leetcode.com/problems/subtree-of-another-tree)|
 |704|Simple binary search implementation.|[Code CPP](problems/leetcode/704.cpp)|[Code Python](problems/leetcode/704.py)|[LC_URL](https://leetcode.com/problems/binary-search)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
 |2|Use carry to check overflow over 10. Go through lists and add numbers, create new list for the result.|[Code CPP](problems/leetcode/2.cpp)|[Code Python](problems/leetcode/2.py)|[LC_URL](https://leetcode.com/problems/add-two-numbers)|

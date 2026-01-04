@@ -211,7 +211,7 @@
 |11|1352B|1200|Explanation.|[Code](problems/codeforces/1200/1352B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1352/B)|
 |10|1343C|1200|Explanation.|[Code](problems/codeforces/1200/1343C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1343/C)|
 |9|433B|1200|Explanation.|[Code](problems/codeforces/1200/433B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/433/B)|
-|8|489B|1200|Explanation.|[Code](problems/codeforces/1200/489B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/489/B)|
+|8|489B|1200|Sort both inputs, greedily match the lowest ratings with each other as long as possible.|[Code](problems/codeforces/1200/489B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/489/B)|
 |7|1520D|1200|For each number, check the value of a(i)-i is equal to a(j)-j and i<j. If true add to the result.|[Code](problems/codeforces/1200/1520D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1520/D)|
 |6|474B|1200|Create a lookup table while going through the first input of worms. For the input of juicy worms, find the stack number in the created lookup table.|[Code](problems/codeforces/1200/474B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/474/B)|
 |5|492B|1200|Sort the input, look for the biggest gap. Keep the Max outside as well as min outside position in mind.|[Code](problems/codeforces/1200/492B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/492/B)|

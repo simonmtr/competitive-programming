@@ -208,7 +208,7 @@
 |14|459A|1200|Explanation.|[Code](problems/codeforces/1200/459A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/459/A)|
 |13|1363A|1200|Explanation.|[Code](problems/codeforces/1200/1363A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1363/A)|
 |12|977C|1200|Explanation.|[Code](problems/codeforces/1200/977C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/977/C)|
-|11|1352B|1200|Explanation.|[Code](problems/codeforces/1200/1352B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1352/B)|
+|11|1352B|1200|Check if the number can be split into mutliple pieces of 1s and 2s, where then the last number can be filled with one big number. Check if its possible for odd and for even numbers. If yes output the result, if not then output no.|[Code](problems/codeforces/1200/1352B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1352/B)|
 |10|1343C|1200|Explanation.|[Code](problems/codeforces/1200/1343C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1343/C)|
 |9|433B|1200|Create two prefix sum arrays, one for the sorted solution and one for the unsorted solution. Subtract the left from the right to get the actual value of the interval.|[Code](problems/codeforces/1200/433B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/433/B)|
 |8|489B|1200|Sort both inputs, greedily match the lowest ratings with each other as long as possible.|[Code](problems/codeforces/1200/489B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/489/B)|

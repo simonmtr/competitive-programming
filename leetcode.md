@@ -30,6 +30,7 @@
 |543|Count the edges from below to up, always take the max of right+left subtree.|[Code CPP](problems/leetcode/543.cpp)|[Code Python](problems/leetcode/543.py)|[LC_URL](https://leetcode.com/problems/diameter-of-binary-tree)|
 |572|Recursively check left and right subtree and compare (See LC 100). Do that for each subtree.|[Code CPP](problems/leetcode/572.cpp)|[Code Python](problems/leetcode/572.py)|[LC_URL](https://leetcode.com/problems/subtree-of-another-tree)|
 |704|Simple binary search implementation.|[Code CPP](problems/leetcode/704.cpp)|[Code Python](problems/leetcode/704.py)|[LC_URL](https://leetcode.com/problems/binary-search)|
+|3512|Sum the array and modulo it with k.|[Code CPP](problems/leetcode/3512.cpp)|[Code Python](problems/leetcode/3512.py)|[LC_URL](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
 |2|Use carry to check overflow over 10. Go through lists and add numbers, create new list for the result.|[Code CPP](problems/leetcode/2.cpp)|[Code Python](problems/leetcode/2.py)|[LC_URL](https://leetcode.com/problems/add-two-numbers)|
 |3|Use set for seen values, go through list with left and right pointer and remove from left until not equal chars. Keep count of maximum value.|[Code CPP](problems/leetcode/3.cpp)|[Code Python](problems/leetcode/3.py)|[LC_URL](https://leetcode.com/problems/longest-substring-without-repeating-characters)|

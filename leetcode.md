@@ -31,6 +31,7 @@
 |572|Recursively check left and right subtree and compare (See LC 100). Do that for each subtree.|[Code CPP](problems/leetcode/572.cpp)|[Code Python](problems/leetcode/572.py)|[LC_URL](https://leetcode.com/problems/subtree-of-another-tree)|
 |704|Simple binary search implementation.|[Code CPP](problems/leetcode/704.cpp)|[Code Python](problems/leetcode/704.py)|[LC_URL](https://leetcode.com/problems/binary-search)|
 |2769|Maximum value can be achieved only with nums+t*2.|[Code CPP](problems/leetcode/2769.cpp)|[Code Python](problems/leetcode/2769.py)|[LC_URL](https://leetcode.com/problems/find-the-maximum-achievable-number)|
+|2894|Easy but not optimal solution: Loop through items and add to nums1 and nums2.|[Code CPP](problems/leetcode/2894.cpp)|[Code Python](problems/leetcode/2894.py)|[LC_URL](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)|
 |3512|Sum the array and modulo it with k.|[Code CPP](problems/leetcode/3512.cpp)|[Code Python](problems/leetcode/3512.py)|[LC_URL](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
 |2|Use carry to check overflow over 10. Go through lists and add numbers, create new list for the result.|[Code CPP](problems/leetcode/2.cpp)|[Code Python](problems/leetcode/2.py)|[LC_URL](https://leetcode.com/problems/add-two-numbers)|

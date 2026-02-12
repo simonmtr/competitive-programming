@@ -265,7 +265,7 @@
 |12|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |11|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |10|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|9|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|9|1360D|1300|Brute force, but only go until sqrt(n). For each number, check if it is a divisor of n. If so, update the result to minimum value, to either the current i or n/i.|[Code](problems/codeforces/1300/1360D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1360/D)|
 |8|1294C|1300|a and b should be the smallest products, afterwards find c and check if it matches the constraints (not 1, not a, not b, result a * b * c = n).|[Code](problems/codeforces/1300/1294C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1294/C)|
 |7|478B|1300|Combinatorics, get 2 out of k. Maximum value if one big friend group, minimum if evenly distributed.|[Code](problems/codeforces/1300/478B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/478/B)|
 |6|459B|1300|Find min and max value, afterwards go through array and count min and max values. Output the difference as well as the amount of the combination. If the min and max value are the same, the amount of combinations is [n * (n - 1) / 2].|[Code](problems/codeforces/1300/459B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/459/B)|

@@ -266,7 +266,7 @@
 |11|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |10|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |9|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|8|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|8|1294C|1300|a and b should be the smallest products, afterwards find c and check if it matches the constraints (not 1, not a, not b, result a * b * c = n).|[Code](problems/codeforces/1300/1294C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1294/C)|
 |7|478B|1300|Combinatorics, get 2 out of k. Maximum value if one big friend group, minimum if evenly distributed.|[Code](problems/codeforces/1300/478B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/478/B)|
 |6|459B|1300|Find min and max value, afterwards go through array and count min and max values. Output the difference as well as the amount of the combination. If the min and max value are the same, the amount of combinations is [n * (n - 1) / 2].|[Code](problems/codeforces/1300/459B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/459/B)|
 |5|451B|1300|Do it in multiple steps. Go through the array until left pointer is found. Go further until the right point is found. Check the boundaries if they are matching. Check rest of the array if its sorted. If all is successful, return yes, otherwise its a no.|[Code](problems/codeforces/1300/451B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/451/B)|

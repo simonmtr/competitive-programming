@@ -203,7 +203,7 @@
 |19|1328C|1200|Explanation.|[Code](problems/codeforces/1200/1328C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1328/C)|
 |18|1541B|1200|Explanation.|[Code](problems/codeforces/1200/1541B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1541/B)|
 |17|1097B|1200|Explanation.|[Code](problems/codeforces/1200/1097B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1097/B)|
-|16|1857C|1200|Explanation.|[Code](problems/codeforces/1200/1857C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1857/C)|
+|16|1857C|1200|Sort the b array, then greedily select the smallest b[i]. Last number will be max_int as here we are choosing the last number of b (=min(max_int, b[-1])).|[Code](problems/codeforces/1200/1857C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1857/C)|
 |15|1354B|1200|Explanation.|[Code](problems/codeforces/1200/1354B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1354/B)|
 |14|459A|1200|Explanation.|[Code](problems/codeforces/1200/459A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/459/A)|
 |13|1363A|1200|Count the number of odds and even, then loop until x-1<=even_sum to know that we found a match and we can construct the solution.|[Code](problems/codeforces/1200/1363A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1363/A)|

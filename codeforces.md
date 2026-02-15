@@ -264,7 +264,7 @@
 |13|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |12|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |11|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|10|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|10|600B|1300|Using upper bound after sorting the input for each of the second array.|[Code](problems/codeforces/1300/600B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/600/B)|
 |9|1360D|1300|Brute force, but only go until sqrt(n). For each number, check if it is a divisor of n. If so, update the result to minimum value, to either the current i or n/i.|[Code](problems/codeforces/1300/1360D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1360/D)|
 |8|1294C|1300|a and b should be the smallest products, afterwards find c and check if it matches the constraints (not 1, not a, not b, result a * b * c = n).|[Code](problems/codeforces/1300/1294C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1294/C)|
 |7|478B|1300|Combinatorics, get 2 out of k. Maximum value if one big friend group, minimum if evenly distributed.|[Code](problems/codeforces/1300/478B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/478/B)|

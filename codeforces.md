@@ -201,7 +201,7 @@
 |21|1399C|1200|Explanation.|[Code](problems/codeforces/1200/1399C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1399/C)|
 |20|445A|1200|Explanation.|[Code](problems/codeforces/1200/445A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/445/A)|
 |19|1328C|1200|Explanation.|[Code](problems/codeforces/1200/1328C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1328/C)|
-|18|1541B|1200|Explanation.|[Code](problems/codeforces/1200/1541B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1541/B)|
+|18|1541B|1200|Go through the array once, search for the possible fitting counterparts and check if the expected ai*aj=i+j.|[Code](problems/codeforces/1200/1541B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1541/B)|
 |17|1097B|1200|Explanation.|[Code](problems/codeforces/1200/1097B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1097/B)|
 |16|1857C|1200|Sort the b array, then greedily select the smallest b[i]. Last number will be max_int as here we are choosing the last number of b (=min(max_int, b[-1])).|[Code](problems/codeforces/1200/1857C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1857/C)|
 |15|1354B|1200|Explanation.|[Code](problems/codeforces/1200/1354B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1354/B)|

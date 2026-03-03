@@ -194,7 +194,7 @@
 |28|1537C|1200|Explanation.|[Code](problems/codeforces/1200/1537C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1537/C)|
 |27|1527B1|1200|Explanation.|[Code](problems/codeforces/1200/1527B1.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1527/B1)|
 |26|1420B|1200|Explanation.|[Code](problems/codeforces/1200/1420B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1420/B)|
-|25|1872D|1200|Explanation.|[Code](problems/codeforces/1200/1872D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1872/D)|
+|25|1872D|1200|We need to find the amount of numbers that are divisivle by only x, only y and both. Then we know for x's we use the maximum values, for y's we use the minimums.|[Code](problems/codeforces/1200/1872D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1872/D)|
 |24|1364A|1200|Explanation.|[Code](problems/codeforces/1200/1364A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1364/A)|
 |23|1926C|1200|Explanation.|[Code](problems/codeforces/1200/1926C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1926/C)|
 |22|1742E|1200|Explanation.|[Code](problems/codeforces/1200/1742E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1742/E)|

@@ -82,6 +82,7 @@ Answer: 27.2
 ## Multiplication Tricks
 
 ### Multiply any number by 11
+
 1. Add the digits together
 2. Place the sum between the digits
 3. if the sum is greater than 9, carry the 1 to the next digit from left to right

@@ -1,7 +1,4 @@
-
 # Mental Math
-
-
 
 ## Percentage Tricks
 
@@ -58,6 +55,30 @@ Example: 13% of 51
 5.1 + 1.53 = 6.63
 Answer: 6.63
 
+### Double and move
+1. Double the number
+2. Move the decimal point to the left
+Why this works: x% of y = (x/100) * y = (x * y) / 100 = (2 * x * y) / 200
+
+Example: 20% of 68
+(20 * 68)/100 = 1360/100 = 13.6
+Answer: 13.6
+
+Example: 2% of 68
+(2 * 68)/100 = 136/100 = 1.36
+Answer: 1.36
+
+Example: 40% of 68
+(40 * 68)/100 = 2720/100 = 27.2
+Answer: 27.2
+
+1% -> 1 (Keep it the same) -> 2 places left -> example: 1% of 68 = 0.01 x 68 = 0.68
+5% -> 0.5 (Half it) -> 1 place left -> example: 5% of 68 = (68 / 2) / 10 = 3.4
+10% -> 1 (Keep it the same) -> 1 place left -> example: 10% of 68 = (1 x 68) / 10 = 6.8
+20% -> 2 (Double it) -> 1 place left -> example: 20% of 68 = (2 x 68) / 10 = 13.6
+25% -> 2.5 (Double it + half) -> 1 place left -> example: 25% of 68 = ((2 x 68) + (0.5 x 68)) / 10 = 17.0
+50% -> 5 (Times 5) -> 1 place left -> example: 50% of 68 = (5 x 68) / 10 = 34.0
+
 ## Multiplication Tricks
 
 ### Multiply any number by 11
@@ -100,7 +121,6 @@ Example: 123 x 127
 12 x (12 + 1) = 156
 3 x 7 = 21
 Answer: 15621
-
 
 ### Multiply any 2 digit numbers up to 100
 1. Multiply the first digits together
@@ -171,23 +191,33 @@ Bring down the next digit: 34
 Answer: 246.8
 
 
-## Addition Tricks
+## Addition/Substraction Tricks
 
-### Add large numbers using rounding
+### Add/subtract large numbers using rounding
 1. Round each number to the nearest ten, hundred, etc.
-2. Add the rounded numbers together
+2. Add/subtract the rounded numbers together
 3. Adjust the sum by adding or subtracting the difference between the original numbers and the rounded
 
-Example: 497 + 368
+Addition Example: 497 + 368
 Round 497 to 500 and 368 to 370
 500 + 370 = 870
 Adjust the sum: 870 - (3 + 2) = 865
 Answer: 865
 
-Example: 1234 + 5678
+Addition Example: 1234 + 5678
 Round 1234 to 1200 and 5678 to 5700
 1200 + 5700 = 6900
 Adjust the sum: 6900 + (34 + 22) = 6956
 Answer: 6956
 
+Subtraction Example: 9876 - 5432
+Round 9876 to 9900 and 5432 to 5400
+9900 - 5400 = 4500
+Adjust the difference: 4500 - (24 + 32) = 4444
+Answer: 4444
 
+Subtraction Example: 12345 - 6789
+Round 12345 to 12000 and 6789 to 6800
+12000 - 6800 = 5200
+Adjust the difference: 5200 + (345 + 11) = 5556
+Answer: 5556

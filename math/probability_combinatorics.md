@@ -1,13 +1,23 @@
 # Probability
 
 
+## General
+
+### n choose k
+When the order does not matter, we can use the formula n choose k to calculate the number of combinations. The formula is:
+C(n, k) = n! / (k! * (n-k)!)
+
+When the order does matter, we can use the formula n permute k to calculate the number of permutations. The formula is:
+P(n, k) = n! / (n-k)!
+
+
 ## Dices
 
 Expected Value EV = (n+1)/2 where n is the number of sides on the die
 
-### Stategy for rolling again
+### Strategy for rolling again
 1. Calculate the expected value of keeping the first roll
-1. Calculate the adjusted balue of a single roll
+1. Calculate the adjusted value of a single roll
 2. Calculate the probability of rolling again
 3. Calculate the total EV: (Avg value of keep) * (probability of keeping) + (avg value of rerolling) * (probability of rerolling)
 
@@ -18,13 +28,12 @@ Example: 6 sided die, roll it and you gain the face value. You can choose to rej
 -> 4. Total EV = (5 * 0.5) + (3.5 * 0.5) = 4.25
 Answer: Keep if you roll 4 or higher, otherwise reroll
 
-
 ### At least one
 
 Expected Value EV = 1 - P(none)
 
 Example: 3 dice, what is the probability of rolling at least one 3?
-P(none) = (5/6)^3 = 125/216
+P(none) = (5/6)^3 = 5/6 * 5/6 * 5/6 = 125/216
 EV = 1 - P(none) = 1 - 125/216 = 91/216
 
 ## Coins
@@ -46,7 +55,7 @@ EV = C(n, k) * (0.5)^n
 2. Calculate the probability of getting k heads in n flips using the formula above
 
 Example: If you flip a coin 6 times, what is the probability you get exactly 3 heads?
-1. C(6, 3) = 6! / (3! * (6-3)!) = 20
+1. C(6, 3) = 6! / (3! * (6-3)!) = 6! / (3! * 3!) = 720 / (6 * 6) = 720 / 36 = 20
 2. P = C(6, 3) * (0.5)^6 = 20 * (0.5)^6 = 20/64 = 5/16
 Answer: 5/16
 

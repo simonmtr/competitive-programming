@@ -3,6 +3,7 @@
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
 |No|id|contesttype|score|description|[Code](problems/atcoder/<>.cpp)|[AC-URL](<url>)|
+|6|2020B|PPC|200|If height and width is not 1, the bishop can acces half the board.|[Code](problems/atcoder/2020B.cpp)|[AC-URL](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b)|
 |5|121B|ABC|200|Simple implementation, read in one A array at a time and update the result.|[Code](problems/atcoder/121B.cpp)|[AC-URL](https://atcoder.jp/contests/abc121/tasks/abc121_b)|
 |4|sumit_2019B|SUMIT|200|Calculate the original number, then check the floor and the floor + 1 to reverse it, see if the original value is the result.|[Code](problems/atcoder/sumit_2019B.cpp)|[AC-URL](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b)|
 |3|codefestival_2016_qualB_b|CODEFESTIVAL|200|Simple implementation problem, if else and keep counters for passed and oversea passed.|[Code](problems/atcoder/codefestival_2016_qualB_b.cpp)|[AC-URL](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_b)|

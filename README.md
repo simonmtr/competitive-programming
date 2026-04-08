@@ -12,12 +12,16 @@ The primary goal is systematic skill development in algorithms, data structures,
 ## Repository Structure
 ```
 problems/
+├── atcoder/
+│ └── .../
 ├── codeforces/
+├──── 800/
+│ └── 900/
 │ └── .../
 ├── contests/
-│ ├── codeforces/
-│ │ └── .../
 │ └── atcoder/
+│ │ └── .../
+│ ├── codeforces/
 │ │ └── .../
 └── leetcode/
 ```

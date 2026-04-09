@@ -3,6 +3,7 @@
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
 |No|id|contesttype|score|description|[Code](problems/atcoder/<>.cpp)|[AC-URL](<url>)|
+|8|086B|ABC|200|Concatinate strings, check if int value of sqrt is same as actual value.|[Code](problems/atcoder/ABC_086B.cpp)|[AC-URL](https://atcoder.jp/contests/abc086/tasks/abc086_b)|
 |7|157B|ABC|200|For each input check the whole board as its quite small.|[Code](problems/atcoder/ABC_157B.cpp)|[AC-URL](https://atcoder.jp/contests/abc157/tasks/abc157_b)|
 |6|2020B|PPC|200|If height and width is not 1, the bishop can access half the board.|[Code](problems/atcoder/PPC_2020B.cpp)|[AC-URL](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b)|
 |5|121B|ABC|200|Simple implementation, read in one A array at a time and update the result.|[Code](problems/atcoder/ABC_121B.cpp)|[AC-URL](https://atcoder.jp/contests/abc121/tasks/abc121_b)|

@@ -3,6 +3,7 @@
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
 |No|id|contesttype|score|description|[Code](problems/atcoder/<>.cpp)|[AC-URL](<url>)|
+|10|088B|ABC|200|Sort the input, add alternating to alice and bobs score, print result.|[Code](problems/atcoder/ABC_088B.cpp)|[AC-URL](https://atcoder.jp/contests/abc088/tasks/abc088_b)|
 |9|074B|ABC|200|Calculate X axis difference for each robot for each eye. Add the minimum to the endresult.|[Code](problems/atcoder/ABC_074B.cpp)|[AC-URL](https://atcoder.jp/contests/abc074/tasks/abc074_b)|
 |8|086B|ABC|200|Concatinate strings, check if int value of sqrt is same as actual value.|[Code](problems/atcoder/ABC_086B.cpp)|[AC-URL](https://atcoder.jp/contests/abc086/tasks/abc086_b)|
 |7|157B|ABC|200|For each input check the whole board as its quite small.|[Code](problems/atcoder/ABC_157B.cpp)|[AC-URL](https://atcoder.jp/contests/abc157/tasks/abc157_b)|

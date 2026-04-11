@@ -110,6 +110,7 @@
 |2807|Save head to temp variable, then loop until temp.next and insert a Node with the gcd of the temp and temp.next.|[Code CPP](problems/leetcode/2807.cpp)|[Code Python](problems/leetcode/2807.py)|[LC_URL](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|
 |3110|Iterate the string and add the absolute of the difference of the chars.|[Code CPP](problems/leetcode/3110.cpp)|[Code Python](problems/leetcode/3110.py)|[LC_URL](https://leetcode.com/problems/score-of-a-string/)|
 |3706|Return the length of the set of the string.|[Code CPP](problems/leetcode/3706.cpp)|[Code Python](problems/leetcode/3706.py)|[LC_URL](https://leetcode.com/problems/maximum-substrings-with-distinct-start/)|
+|3741|Create dict of numbers to save the positions. Afterwards iterate the positions, if there is more than three numbers iterate that sublist and check for matching triplets.|[Code CPP](problems/leetcode/3741.cpp)|[Code Python](problems/leetcode/3741.py)|[LC_URL](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii)|
 
 ## HARD
 

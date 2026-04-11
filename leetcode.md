@@ -1,9 +1,9 @@
 # Leetcode Problems
 
+## EASY
 
 |ID|NOTES|LINK CPP|LINK Python|URL|
 |--|-----|----|---|---|
-|**EASY**|**EASY**|**EASY**|**EASY**|**EASY**|
 |1|Map for tracking the value and the index, go through all the values and stop as soon as we find a number that fits.|[Code CPP](problems/leetcode/1.cpp)|[Code Python](problems/leetcode/1.py)|[LC_URL](https://leetcode.com/problems/two-sum)|
 |20|Create a stack and push open brackets onto that stack. In case the current char is a closed bracket, check if the top of the stack is a complementary bracket.|[Code CPP](problems/leetcode/20.cpp)|[Code Python](problems/leetcode/20.py)|[LC_URL](https://leetcode.com/problems/valid-parentheses)|
 |21|Create dummy node in beginning. For each node take the one with smaller value and append it to the list, then move the current pointer forward. Repeat until both lists have been iterated.|[Code CPP](problems/leetcode/21.cpp)|[Code Python](problems/leetcode/21.py)|[LC_URL](https://leetcode.com/problems/merge-two-sorted-lists)|
@@ -34,7 +34,11 @@
 |2769|Maximum value can be achieved only with nums+t*2.|[Code CPP](problems/leetcode/2769.cpp)|[Code Python](problems/leetcode/2769.py)|[LC_URL](https://leetcode.com/problems/find-the-maximum-achievable-number)|
 |2894|Easy but not optimal solution: Loop through items and add to nums1 and nums2.|[Code CPP](problems/leetcode/2894.cpp)|[Code Python](problems/leetcode/2894.py)|[LC_URL](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)|
 |3512|Sum the array and modulo it with k.|[Code CPP](problems/leetcode/3512.cpp)|[Code Python](problems/leetcode/3512.py)|[LC_URL](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)|
-|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
+
+## MEDIUM
+
+|ID|NOTES|LINK CPP|LINK Python|URL|
+|--|-----|----|---|---|
 |2|Use carry to check overflow over 10. Go through lists and add numbers, create new list for the result.|[Code CPP](problems/leetcode/2.cpp)|[Code Python](problems/leetcode/2.py)|[LC_URL](https://leetcode.com/problems/add-two-numbers)|
 |3|Use set for seen values, go through list with left and right pointer and remove from left until not equal chars. Keep count of maximum value.|[Code CPP](problems/leetcode/3.cpp)|[Code Python](problems/leetcode/3.py)|[LC_URL](https://leetcode.com/problems/longest-substring-without-repeating-characters)|
 |5|For each index check to right and left until palidrome is broken, then check if its the longest seen so far.|[Code CPP](problems/leetcode/5.cpp)|[Code Python](problems/leetcode/5.py)|[LC_URL](https://leetcode.com/problems/longest-palindromic-substring/)|
@@ -106,11 +110,13 @@
 |2807|Save head to temp variable, then loop until temp.next and insert a Node with the gcd of the temp and temp.next.|[Code CPP](problems/leetcode/2807.cpp)|[Code Python](problems/leetcode/2807.py)|[LC_URL](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|
 |3110|Iterate the string and add the absolute of the difference of the chars.|[Code CPP](problems/leetcode/3110.cpp)|[Code Python](problems/leetcode/3110.py)|[LC_URL](https://leetcode.com/problems/score-of-a-string/)|
 |3706|Return the length of the set of the string.|[Code CPP](problems/leetcode/3706.cpp)|[Code Python](problems/leetcode/3706.py)|[LC_URL](https://leetcode.com/problems/maximum-substrings-with-distinct-start/)|
-|**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|
+
+## HARD
+
+|ID|NOTES|LINK CPP|LINK Python|URL|
+|--|-----|----|---|---|
 |4|Get middle of both arrays, then binary search the smaller one with left/mid/right, and compare with the middle of the long array. Shift left/right/middle accordingly until we have the right points in the long and short array that are the actual middle of the combined array.|[Code CPP](problems/leetcode/4.cpp)|[Code Python](problems/leetcode/4.py)|[LC_URL](https://leetcode.com/problems/median-of-two-sorted-arrays)|
 |42|Left and right pointer as well as a maximum value of left and right, the for each step of the way we calculate the water trapped in that step. Return the volume of the water in the end.|[Code CPP](problems/leetcode/42.cpp)|[Code Python](problems/leetcode/42.py)|[LC_URL](https://leetcode.com/problems/trapping-rain-water)|
 |76|Map for the letters we have to find. Two pointers to check for each index until all the needed chars are found. In the end, check the lowest length. Output that number.|[Code CPP](problems/leetcode/76.cpp)|[Code Python](problems/leetcode/76.py)|[LC_URL](https://leetcode.com/problems/minimum-window-substring)|
 |84|Go through heights and use a stack to keep the latest indexes and heights. As long as current height is smaller than latest stack height, pop from stack and calculate max area. Remember to clear stack in the end by calculating the max area for remaining heights. Return max area.|[Code CPP](problems/leetcode/84.cpp)|[Code Python](problems/leetcode/84.py)|[LC_URL](https://leetcode.com/problems/largest-rectangle-in-histogram)|
 |239|Use a vector for the result, deque for the checking. For each step, remove the numbers that are smaller than the current one. Remove also the number that is i-k so that we remove the one that is not in the window. Output the result of the highest numbers, the front of the deque, for each window.|[Code CPP](problems/leetcode/239.cpp)|[Code Python](problems/leetcode/239.py)|[LC_URL](https://leetcode.com/problems/sliding-window-maximum)|
-|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|
-|X|Explanation.|[Code CPP](problems/leetcode/XA.cpp)|[Code Python](problems/leetcode/XA.py)|[LC_URL](URL)|

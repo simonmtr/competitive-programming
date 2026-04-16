@@ -3,6 +3,11 @@
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
 |No|id|contesttype|score|description|[Code](problems/atcoder/<>.cpp)|[AC-URL](<url>)|
+|15|E|eduDP|100|Create dp and save minimum weight to achieve the value at i, in the end check for maximum value until W.|[Code](problems/atcoder/edu_dp/E.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_e)|
+|14|D|eduDP|100|Compute for every w the maximum value to achieve that.|[Code](problems/atcoder/edu_dp/D.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_d)|
+|13|C|eduDP|100|Create DP of [0,0,0] and keep the max value for each task in that. Each step, check what would have been the max of choosing both other last options.|[Code](problems/atcoder/edu_dp/C.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_c)|
+|12|B|eduDP|100|Similar to A, create a empty dp array, then loop until n and for each check all the k options.|[Code](problems/atcoder/edu_dp/B.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_b)|
+|11|A|eduDP|100|Create dp[0] and dp[1], then iterate up to N and calculate the min of the last and the second to last.|[Code](problems/atcoder/edu_dp/A.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_a)|
 |10|088B|ABC|200|Sort the input, add alternating to alice and bobs score, print result.|[Code](problems/atcoder/ABC_088B.cpp)|[AC-URL](https://atcoder.jp/contests/abc088/tasks/abc088_b)|
 |9|074B|ABC|200|Calculate X axis difference for each robot for each eye. Add the minimum to the endresult.|[Code](problems/atcoder/ABC_074B.cpp)|[AC-URL](https://atcoder.jp/contests/abc074/tasks/abc074_b)|
 |8|086B|ABC|200|Concatinate strings, check if int value of sqrt is same as actual value.|[Code](problems/atcoder/ABC_086B.cpp)|[AC-URL](https://atcoder.jp/contests/abc086/tasks/abc086_b)|

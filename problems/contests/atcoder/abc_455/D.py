@@ -5,7 +5,9 @@ import sys
 # s = input().strip()
 from collections import defaultdict
 
-
+"""
+Gives TLE
+"""
 def main():
     input = sys.stdin.readline
     n, q = [int(x) for x in input().split()]

@@ -2,8 +2,8 @@
 
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
-|No|id|contesttype|score|description|[Code](problems/atcoder/<>.cpp)|[AC-URL](<url>)|
-|16|B|ABC|065|Keep track of seen nodes for circles and keep track of amount of jumps, then just jump to the next index and check if the value is 2.|[Code](problems/atcoder/ABC_065B.py)|[AC-URL](https://atcoder.jp/contests/abc065/tasks/abc065_b)|
+|17|B|ABC|068|200|Keep track of the current highest number that is valid and compare with all n.|[Code](problems/atcoder/ABC_068B.py)|[AC-URL](https://atcoder.jp/contests/abc065/tasks/abc068_b)|
+|16|B|ABC|065|200|Keep track of seen nodes for circles and keep track of amount of jumps, then just jump to the next index and check if the value is 2.|[Code](problems/atcoder/ABC_065B.py)|[AC-URL](https://atcoder.jp/contests/abc065/tasks/abc065_b)|
 |15|E|eduDP|100|Create dp and save minimum weight to achieve the value at i, in the end check for maximum value until W.|[Code](problems/contests/atcoder/edu_dp/E.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_e)|
 |14|D|eduDP|100|Compute for every w the maximum value to achieve that.|[Code](problems/contests/atcoder/edu_dp/D.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_d)|
 |13|C|eduDP|100|Create DP of [0,0,0] and keep the max value for each task in that. Each step, check what would have been the max of choosing both other last options.|[Code](problems/contests/atcoder/edu_dp/C.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_c)|

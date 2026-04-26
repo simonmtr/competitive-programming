@@ -2,6 +2,7 @@
 
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
+|24|B|ABC|122|200|Go through all chars and keep count of the longest.|[Code](problems/atcoder/ABC_122B.py)|[AC-URL](https://atcoder.jp/contests/abc122/tasks/abc122_b)|
 |23|C|ABC|138|300|Read the input, sort it and then always map the lowest values and divide. Return the last output.|[Code](problems/atcoder/ABC_138C.py)|[AC-URL](https://atcoder.jp/contests/abc138/tasks/abc138_c)|
 |22|C|ABC|142|300|Read the input and save the read input at its position in a pre allocated array.|[Code](problems/atcoder/ABC_142C.py)|[AC-URL](https://atcoder.jp/contests/abc142/tasks/abc142_c)|
 |21|C|ABC|132|300|First we have to sort the list, then we have to check the value left of the middle and right of the middle and substract them, that gives us the result.|[Code](problems/atcoder/ABC_132C.py)|[AC-URL](https://atcoder.jp/contests/abc132/tasks/abc132_c)|

@@ -2,6 +2,7 @@
 
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
+|20|C|ABC|161|300|Essentially its n%k or k-(n%k), so we just have to calculate that.|[Code](problems/atcoder/ABC_161C.py)|[AC-URL](https://atcoder.jp/contests/abc161/tasks/abc161_c)|
 |19|A|AGC|014|300|Simple calculations, mind the edgecase that when all abc are equal it will go on forever.|[Code](problems/atcoder/AGC_014A.py)|[AC-URL](https://atcoder.jp/contests/agc014/tasks/agc014_a)|
 |18|C|ABC|160|300|Calculate the biggest gap between the houses, then return the value of the whole circle - biggest_gap as this is the best route.|[Code](problems/atcoder/ABC_160C.py)|[AC-URL](https://atcoder.jp/contests/abc160/tasks/abc160_C)|
 |17|B|ABC|068|200|Keep track of the current highest number that is valid and compare with all n.|[Code](problems/atcoder/ABC_068B.py)|[AC-URL](https://atcoder.jp/contests/abc068/tasks/abc068_b)|

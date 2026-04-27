@@ -2,6 +2,7 @@
 
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
+|27|C|ABC|149|300|Iterate from x upwards and check if there is any other advisor than 1 and itself.|[Code](problems/atcoder/ABC_149C.py)|[AC-URL](https://atcoder.jp/contests/abc149/tasks/abc149_c)|
 |26|B|ABC|116|200|Iterate until a duplicate is found saved in set.|[Code](problems/atcoder/ABC_116B.py)|[AC-URL](https://atcoder.jp/contests/abc116/tasks/abc116_b)|
 |25|B|ABC|094|200|Go through the gates and check left and right side of x, return the minimum.|[Code](problems/atcoder/ABC_094B.py)|[AC-URL](https://atcoder.jp/contests/abc094/tasks/abc094_b)|
 |24|B|ABC|122|200|Go through all chars and keep count of the longest.|[Code](problems/atcoder/ABC_122B.py)|[AC-URL](https://atcoder.jp/contests/abc122/tasks/abc122_b)|

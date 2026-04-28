@@ -2,18 +2,19 @@
 
 |COUNTER|ID|CONTEST TYPE|SCORE|NOTES|CODE|AC-URL|
 |-------|--|------------|-----|-----|----|------|
-|28|A|AGC|027|200|Iterate through the candies and reduce x candy while going through.|[Code](problems/atcoder/AGC_027A.py)|[AC-URL](https://atcoder.jp/contests/agc027/tasks/agc_027a)|
-|27|C|ABC|149|300|Iterate from x upwards and check if there is any other advisor than 1 and itself.|[Code](problems/atcoder/ABC_149C.py)|[AC-URL](https://atcoder.jp/contests/abc149/tasks/abc149_c)|
-|26|B|ABC|116|200|Iterate until a duplicate is found saved in set.|[Code](problems/atcoder/ABC_116B.py)|[AC-URL](https://atcoder.jp/contests/abc116/tasks/abc116_b)|
-|25|B|ABC|094|200|Go through the gates and check left and right side of x, return the minimum.|[Code](problems/atcoder/ABC_094B.py)|[AC-URL](https://atcoder.jp/contests/abc094/tasks/abc094_b)|
-|24|B|ABC|122|200|Go through all chars and keep count of the longest.|[Code](problems/atcoder/ABC_122B.py)|[AC-URL](https://atcoder.jp/contests/abc122/tasks/abc122_b)|
-|23|C|ABC|138|300|Read the input, sort it and then always map the lowest values and divide. Return the last output.|[Code](problems/atcoder/ABC_138C.py)|[AC-URL](https://atcoder.jp/contests/abc138/tasks/abc138_c)|
-|22|C|ABC|142|300|Read the input and save the read input at its position in a pre allocated array.|[Code](problems/atcoder/ABC_142C.py)|[AC-URL](https://atcoder.jp/contests/abc142/tasks/abc142_c)|
-|21|C|ABC|132|300|First we have to sort the list, then we have to check the value left of the middle and right of the middle and substract them, that gives us the result.|[Code](problems/atcoder/ABC_132C.py)|[AC-URL](https://atcoder.jp/contests/abc132/tasks/abc132_c)|
-|20|C|ABC|161|300|Essentially its n%k or k-(n%k), so we just have to calculate that.|[Code](problems/atcoder/ABC_161C.py)|[AC-URL](https://atcoder.jp/contests/abc161/tasks/abc161_c)|
-|19|A|AGC|014|300|Simple calculations, mind the edgecase that when all abc are equal it will go on forever.|[Code](problems/atcoder/AGC_014A.py)|[AC-URL](https://atcoder.jp/contests/agc014/tasks/agc014_a)|
-|18|C|ABC|160|300|Calculate the biggest gap between the houses, then return the value of the whole circle - biggest_gap as this is the best route.|[Code](problems/atcoder/ABC_160C.py)|[AC-URL](https://atcoder.jp/contests/abc160/tasks/abc160_C)|
-|17|B|ABC|068|200|Keep track of the current highest number that is valid and compare with all n.|[Code](problems/atcoder/ABC_068B.py)|[AC-URL](https://atcoder.jp/contests/abc068/tasks/abc068_b)|
+|29|B|ABC|092|200|Calculate wiht simple math how many chocolate each person eats, return the output.|[Code](problems/atcoder/ABC_092B.cpp)|[AC-URL](https://atcoder.jp/contests/abc092/tasks/abc_092b)|
+|28|A|AGC|027|200|Iterate through the candies and reduce x candy while going through.|[Code](problems/atcoder/AGC_027A.cpp)|[AC-URL](https://atcoder.jp/contests/agc027/tasks/agc_027a)|
+|27|C|ABC|149|300|Iterate from x upwards and check if there is any other advisor than 1 and itself.|[Code](problems/atcoder/ABC_149C.cpp)|[AC-URL](https://atcoder.jp/contests/abc149/tasks/abc149_c)|
+|26|B|ABC|116|200|Iterate until a duplicate is found saved in set.|[Code](problems/atcoder/ABC_116B.cpp)|[AC-URL](https://atcoder.jp/contests/abc116/tasks/abc116_b)|
+|25|B|ABC|094|200|Go through the gates and check left and right side of x, return the minimum.|[Code](problems/atcoder/ABC_094B.cpp)|[AC-URL](https://atcoder.jp/contests/abc094/tasks/abc094_b)|
+|24|B|ABC|122|200|Go through all chars and keep count of the longest.|[Code](problems/atcoder/ABC_122B.cpp)|[AC-URL](https://atcoder.jp/contests/abc122/tasks/abc122_b)|
+|23|C|ABC|138|300|Read the input, sort it and then always map the lowest values and divide. Return the last output.|[Code](problems/atcoder/ABC_138C.cpp)|[AC-URL](https://atcoder.jp/contests/abc138/tasks/abc138_c)|
+|22|C|ABC|142|300|Read the input and save the read input at its position in a pre allocated array.|[Code](problems/atcoder/ABC_142C.cpp)|[AC-URL](https://atcoder.jp/contests/abc142/tasks/abc142_c)|
+|21|C|ABC|132|300|First we have to sort the list, then we have to check the value left of the middle and right of the middle and substract them, that gives us the result.|[Code](problems/atcoder/ABC_132C.cpp)|[AC-URL](https://atcoder.jp/contests/abc132/tasks/abc132_c)|
+|20|C|ABC|161|300|Essentially its n%k or k-(n%k), so we just have to calculate that.|[Code](problems/atcoder/ABC_161C.cpp)|[AC-URL](https://atcoder.jp/contests/abc161/tasks/abc161_c)|
+|19|A|AGC|014|300|Simple calculations, mind the edgecase that when all abc are equal it will go on forever.|[Code](problems/atcoder/AGC_014A.cpp)|[AC-URL](https://atcoder.jp/contests/agc014/tasks/agc014_a)|
+|18|C|ABC|160|300|Calculate the biggest gap between the houses, then return the value of the whole circle - biggest_gap as this is the best route.|[Code](problems/atcoder/ABC_160C.cpp)|[AC-URL](https://atcoder.jp/contests/abc160/tasks/abc160_C)|
+|17|B|ABC|068|200|Keep track of the current highest number that is valid and compare with all n.|[Code](problems/atcoder/ABC_068B.cpp)|[AC-URL](https://atcoder.jp/contests/abc068/tasks/abc068_b)|
 |16|B|ABC|065|200|Keep track of seen nodes for circles and keep track of amount of jumps, then just jump to the next index and check if the value is 2.|[Code](problems/atcoder/ABC_065B.py)|[AC-URL](https://atcoder.jp/contests/abc065/tasks/abc065_b)|
 |15|E|eduDP|100|Create dp and save minimum weight to achieve the value at i, in the end check for maximum value until W.|[Code](problems/contests/atcoder/edu_dp/E.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_e)|
 |14|D|eduDP|100|Compute for every w the maximum value to achieve that.|[Code](problems/contests/atcoder/edu_dp/D.py)|[AC-URL](https://atcoder.jp/contests/dp/tasks/dp_d)|

@@ -169,6 +169,7 @@
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
+|51|2002C|1200|The idea is that we just have to check that no circle is closer to the target than the starting point is.|[Code](problems/codeforces/1200/2002C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2002/C)|
 |50|1369B|1200|Explanation.|[Code](problems/codeforces/1200/1369B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1369/B)|
 |49|1793C|1200|Explanation.|[Code](problems/codeforces/1200/1793C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1793/C)|
 |48|285C|1200|Explanation.|[Code](problems/codeforces/1200/285C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/285/C)|

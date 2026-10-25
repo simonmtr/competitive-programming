@@ -225,6 +225,7 @@
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
+|11|2033D|1300|Greedily checking each section for a 0-sum segment, keeping track of the sum in a set. Found segment when current sum is in the set -> reset the set to the current sum only.|[Code](problems/codeforces/1300/2033D.cpp|[CF-URL](https://codeforces.com/problemset/problem/2033/D)|
 |10|600B|1300|Using upper bound after sorting the input for each of the second array.|[Code](problems/codeforces/1300/600B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/600/B)|
 |9|1360D|1300|Brute force, but only go until sqrt(n). For each number, check if it is a divisor of n. If so, update the result to minimum value, to either the current i or n/i.|[Code](problems/codeforces/1300/1360D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1360/D)|
 |8|1294C|1300|a and b should be the smallest products, afterwards find c and check if it matches the constraints (not 1, not a, not b, result a * b * c = n).|[Code](problems/codeforces/1300/1294C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1294/C)|

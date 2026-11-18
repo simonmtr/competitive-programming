@@ -242,6 +242,7 @@
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
+|2|2231C|1400|Check the path for random number, for example a[0], which is max ~60 options. Then iterate through all inputs, do all path calculations and increase counter if its in the seen path. Afterwards return the lowest of path lenght for each of the ~60 items in the list.|[Code](problems/codeforces/1400/2231C)|[CF-URL](https://codeforces.com/problemset/problem/2231/C)|
 |1|520B|1400|BFS with keeping track of the depth on in the visited list. If the value is equal to m, output the depth.|[Code](problems/codeforces/1400/520B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/520/B)|
 
 ## 1500

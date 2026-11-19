@@ -225,7 +225,8 @@
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
-|12|1676F|1300|Create map with values and counts, then iterate through map, check previous seen key with current key, only go on if its +1, else start new check.|[Code](problems/codeforces/1300/1676F.cpp|[CF-URL](https://codeforces.com/problemset/problem/1676/F)|
+|13|1862D|1300|Binary search over the calculations of 'mid over 2'. Search until the target amount is found.|[Code](problems/codeforces/1862D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1862/D)|
+|12|1676F|1300|Create map with values and counts, then iterate through map, check previous seen key with current key, only go on if its +1, else start new check.|[Code](problems/codeforces/1300/1676F.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1676/F)|
 |11|2033D|1300|Greedily checking each section for a 0-sum segment, keeping track of the sum in a set. Found segment when current sum is in the set -> reset the set to the current sum only.|[Code](problems/codeforces/1300/2033D.cpp|[CF-URL](https://codeforces.com/problemset/problem/2033/D)|
 |10|600B|1300|Using upper bound after sorting the input for each of the second array.|[Code](problems/codeforces/1300/600B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/600/B)|
 |9|1360D|1300|Brute force, but only go until sqrt(n). For each number, check if it is a divisor of n. If so, update the result to minimum value, to either the current i or n/i.|[Code](problems/codeforces/1300/1360D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1360/D)|

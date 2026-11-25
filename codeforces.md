@@ -226,6 +226,7 @@
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
+|14|1915E|1300|Set for tracking if the diff of uneven and even indexed numbers was already seen, adding odd and substracting even (or the way around). If seen already we know we can have a subarray that reaches similar juice amounts.|[Code](problems/1300/1915E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1915/E)|
 |13|1862D|1300|Binary search over the calculations of 'mid over 2'. Search until the target amount is found.|[Code](problems/codeforces/1862D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1862/D)|
 |12|1676F|1300|Create map with values and counts, then iterate through map, check previous seen key with current key, only go on if its +1, else start new check.|[Code](problems/codeforces/1300/1676F.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1676/F)|
 |11|2033D|1300|Greedily checking each section for a 0-sum segment, keeping track of the sum in a set. Found segment when current sum is in the set -> reset the set to the current sum only.|[Code](problems/codeforces/1300/2033D.cpp|[CF-URL](https://codeforces.com/problemset/problem/2033/D)|
